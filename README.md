@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm James Lorenz 
 
-🌱 I'm interested in mechatronic systems and advanced manufacturing.
+🌱 I'm interested in mechatronic systems and advanced manufacturing
 
 🔭 I’m currently developing hardware and methods for robotic 3D printing of liquid and soft materials
 
